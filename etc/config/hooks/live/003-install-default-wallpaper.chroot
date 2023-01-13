@@ -1,0 +1,9 @@
+#!/bin/sh
+# Description: Install the default GNOME wallpaper
+
+cat > /usr/share/glib-2.0/schemas/90-koompi-os-wallpaper.gschema.override <<EOF
+[org.gnome.desktop.background]
+picture-uri='file:///usr/share/backgrounds/koompi/koompi-default.webp'
+picture-uri-dark='file:///usr/share/backgrounds/koompi/koompi-dark.webp'
+EOF
+glib-compile-schemas /usr/share/glib-2.0/schemas/

@@ -5,7 +5,7 @@
 #    debian:latest \
 #    /bin/bash -s etc/terraform.conf < build.sh
 
-docker run --privileged -i -v /proc:/proc \
+docker run --privileged -i -v /:/run/host \
     -v ${PWD}:/working_dir \
     -w /working_dir \
     debian:bookworm \

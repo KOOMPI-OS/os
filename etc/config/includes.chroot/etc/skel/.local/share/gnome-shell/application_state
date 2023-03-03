@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Evince.desktop" score="96" last-seen="1677029515"/>
+    <application id="org.gnome.FileRoller.desktop" score="4" last-seen="1676944097"/>
+    <application id="org.gnome.Software.desktop" score="14" last-seen="1676857803"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="27" last-seen="1677118900"/>
+    <application id="org.gnome.Epiphany.desktop" score="3" last-seen="1677201948"/>
+    <application id="org.gnome.Boxes.desktop" score="287" last-seen="1677118366"/>
+    <application id="org.gnome.Shell.PortalHelper.desktop" score="15" last-seen="1676682645"/>
+    <application id="org.gnome.Console.desktop" score="6295" last-seen="1677202110"/>
+    <application id="org.gnome.Nautilus.desktop" score="378.5" last-seen="1677202110"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="9.5" last-seen="1677118917"/>
+    <application id="webcatalog-tiktok.desktop" score="5" last-seen="1676733226"/>
+    <application id="com.google.Chrome.desktop" score="57" last-seen="1677118670"/>
+    <application id="org.telegram.desktop.desktop" score="13895" last-seen="1677118968"/>
+    <application id="com.visualstudio.code.desktop" score="596.5" last-seen="1677029526"/>
+    <application id="org.gnome.Totem.desktop" score="0" last-seen="1676769904"/>
+    <application id="org.gnome.eog.desktop" score="25" last-seen="1677119554"/>
+    <application id="org.koompios.ControlCenter.desktop" score="2" last-seen="1677117425"/>
+    <application id="com.mattjakeman.ExtensionManager.desktop" score="8" last-seen="1677118963"/>
+    <application id="org.koompios.FirstSetup.desktop" score="15" last-seen="1676681828"/>
+    <application id="org.gnome.Settings.desktop" score="351.5" last-seen="1677201900"/>
+  </context>
+</application-state>

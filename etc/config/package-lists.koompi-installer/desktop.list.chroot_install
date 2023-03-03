@@ -1,6 +1,5 @@
 koompi-base-meta
 koompi-base-desktop
-koompi-distrologo
 
 switcheroo-control
 gnome-calculator
@@ -9,6 +8,7 @@ gnome-photos
 gnome-software
 gnome-disk-utility
 gnome-sushi
+gnome-tweaks
 evince
 yelp
 file-roller

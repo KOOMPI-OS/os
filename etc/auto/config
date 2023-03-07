@@ -18,7 +18,7 @@ lb config noauto \
     --parent-distribution "$BASECODENAME" \
     --archive-areas "main restricted universe multiverse" \
     --parent-archive-areas "main restricted universe multiverse" \
-    --linux-packages linux-image \
+    --linux-packages "linux-image-liquorix-amd64 linux-headers-liquorix-amd64" \
     --linux-flavours "$KERNEL_FLAVORS" \
     --bootappend-live "boot=casper maybe-ubiquity quiet splash" \
     --mirror-bootstrap "$MIRROR_URL" \

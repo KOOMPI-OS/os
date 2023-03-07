@@ -116,11 +116,10 @@ if ! shopt -oq posix; then
   fi
 fi
 
-#alias vim="apx run vim"
 
 alias goubuntu="/usr/lib/apx/distrobox enter apx_managed"
 alias goarch="/usr/lib/apx/distrobox enter apx_managed_aur"
-
+alias px="pix"
 
 alias code="flatpak run com.visualstudio.code"
 

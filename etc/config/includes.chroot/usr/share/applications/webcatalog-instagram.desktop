@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Instagram
+GenericName=Instagram
+Icon=/usr/share/web-applications/Instagram/resources/app.asar.unpacked/build/icon.png
+Exec="/usr/share/web-applications/Instagram/Instagram"
+Terminal=false
+StartupWMClass=instagram
+Categories=Network;

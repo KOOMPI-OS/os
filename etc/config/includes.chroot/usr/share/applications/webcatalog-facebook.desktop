@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Facebook
+GenericName=Facebook
+Icon=/usr/share/web-applications/Facebook/resources/app.asar.unpacked/build/icon.png
+Exec="/usr/share/web-applications/Facebook/Facebook"
+Terminal=false
+StartupWMClass=facebook
+Categories=Network;

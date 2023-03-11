@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Figma
+GenericName=Figma
+Icon=/usr/share/web-applications/Figma/resources/app.asar.unpacked/build/icon.png
+Exec="/usr/share/web-applications/Figma/Figma"
+Terminal=false
+StartupWMClass=figma
+Categories=Graphics;Photography

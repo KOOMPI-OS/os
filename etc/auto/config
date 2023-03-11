@@ -7,7 +7,7 @@ set -e
 if [ "$HWE_KERNEL" = "yes" ]; then
     KERNEL_FLAVORS="generic-hwe-${BASEVERSION}"
 else
-    KERNEL_FLAVORS="linux-liquorix"
+    KERNEL_FLAVORS=""
 fi
 
 lb config noauto \
@@ -18,7 +18,7 @@ lb config noauto \
     --parent-distribution "$BASECODENAME" \
     --archive-areas "main restricted universe multiverse" \
     --parent-archive-areas "main restricted universe multiverse" \
-    --linux-packages "linux-image-liquorix-amd64 linux-headers-liquorix-amd64" \
+    --linux-packages linux-image-liquorix \
     --linux-flavours "$KERNEL_FLAVORS" \
     --bootappend-live "boot=casper maybe-ubiquity quiet splash" \
     --mirror-bootstrap "$MIRROR_URL" \

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Monkeytype
+GenericName=Monkeytype
+Icon=/usr/share/web-applications/Monkeytype/resources/app.asar.unpacked/build/icon.png
+Exec="/usr/share/web-applications/Monkeytype/Monkeytype"
+Terminal=false
+StartupWMClass=monkeytype
+Categories=Office;

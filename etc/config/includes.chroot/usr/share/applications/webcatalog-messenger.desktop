@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Messenger
+GenericName=Messenger
+Icon=/usr/share/web-applications/Messenger/resources/app.asar.unpacked/build/icon.png
+Exec="/usr/share/web-applications/Messenger/Messenger"
+Terminal=false
+StartupWMClass=messenger
+Categories=Network;

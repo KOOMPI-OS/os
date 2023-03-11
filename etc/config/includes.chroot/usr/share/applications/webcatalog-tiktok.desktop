@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=TikTok
+GenericName=TikTok
+Icon=/usr/share/web-applications/TikTok/resources/app.asar.unpacked/build/icon.png
+Exec="/usr/share/web-applications/TikTok/TikTok"
+Terminal=false
+StartupWMClass=tiktok
+Categories=AudioVideo;

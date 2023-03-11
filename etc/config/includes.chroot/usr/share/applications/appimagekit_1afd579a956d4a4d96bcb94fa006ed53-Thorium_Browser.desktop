@@ -3,7 +3,7 @@ Version=1.0
 Name=Thorium Browser (105.0.5127.0.glibc2.17)
 GenericName=Web Browser
 Comment=Access the Internet
-Exec=/home/bestplayer/Applications/Thorium-Browser-105.0.5127.0.glibc2.17-x86-64.AppImage --no-default-browser-check --use-gl=desktop --enable-experimental-web-platform-features --new-canvas-2d-api --autoplay-policy=user-gesture-required --enable-features=PageInfoAboutThisSiteMoreInfo %U
+Exec=/usr/share/appimage-applications/Thorium-Browser-105.0.5127.0.glibc2.17-x86-64.AppImage --no-default-browser-check --use-gl=desktop --enable-experimental-web-platform-features --new-canvas-2d-api --autoplay-policy=user-gesture-required --enable-features=PageInfoAboutThisSiteMoreInfo %U
 StartupWMClass=thorium
 Keywords=browser;
 StartupNotify=true

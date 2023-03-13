@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Microsoft Word Online
+GenericName=Microsoft Word Online
+Icon=/usr/share/web-applications/Microsoft Word Online/resources/app.asar.unpacked/build/icon.png
+Exec="/usr/share/web-applications/Microsoft Word Online/Microsoft Word Online"
+Terminal=false
+StartupWMClass=microsoft word online
+Categories=Office;

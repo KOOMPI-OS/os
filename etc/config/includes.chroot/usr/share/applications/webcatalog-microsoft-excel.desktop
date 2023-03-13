@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Microsoft Excel Online
+GenericName=Microsoft Excel Online
+Icon=/usr/share/web-applications/Microsoft Excel Online/resources/app.asar.unpacked/build/icon.png
+Exec="/usr/share/web-applications/Microsoft Excel Online/Microsoft Excel Online"
+Terminal=false
+StartupWMClass=microsoft excel online
+Categories=Office;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Weteka
+GenericName=Weteka
+Icon=/usr/share/web-applications/Weteka/resources/app.asar.unpacked/build/icon.png
+Exec="/usr/share/web-applications/Weteka/Weteka"
+Terminal=false
+StartupWMClass=youtube
+Categories=AudioVideo;

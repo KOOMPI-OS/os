@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Sheets
+GenericName=Google Sheets
+Icon=/usr/share/web-applications/Google Sheets/resources/app.asar.unpacked/build/icon.png
+Exec="/usr/share/web-applications/Google Sheets/Google Sheets"
+Terminal=false
+StartupWMClass=google sheets
+Categories=Office;

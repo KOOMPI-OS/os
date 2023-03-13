@@ -15,7 +15,9 @@ file-roller
 eog
 orca
 totem
+vim
 
 # appimage deps
 fuse3
 libfuse2
+appimagelauncher
